@@ -13,7 +13,7 @@ body {
 }
 
 .navbar {
-  background: white;
+  background-color: #006bd6;
   padding: 1em;
   size: 100px;
   .logo {
